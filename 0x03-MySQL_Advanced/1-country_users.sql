@@ -1,4 +1,4 @@
-tes a table users
+-- creates a table users
 
 CREATE TABLE IF NOT EXISTS users (
 	id INT NOT NULL AUTO_INCREMENT,
